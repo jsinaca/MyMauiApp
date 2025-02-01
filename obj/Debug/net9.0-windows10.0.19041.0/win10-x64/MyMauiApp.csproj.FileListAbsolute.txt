@@ -469,3 +469,4 @@ C:\Users\J\Desktop\School\2025\CSE325\Week5\MyMauiApp\obj\Debug\net9.0-windows10
 C:\Users\J\Desktop\School\2025\CSE325\Week5\MyMauiApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 C:\Users\J\Desktop\School\2025\CSE325\Week5\MyMauiApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\J\Desktop\School\2025\CSE325\Week5\MyMauiApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\J\Desktop\School\2025\CSE325\Week5\MyMauiApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MyMauiApp.sourcelink.json
